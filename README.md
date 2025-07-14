@@ -32,3 +32,13 @@ npm install
 
 # Start the React frontend
 npm start
+```
+
+
+![Diagram](images/1_login.png)
+![Diagram](images/2_signup.png)
+![Diagram](images/3_lockerpin.png)
+![Diagram](images/4_dashboard.png)
+![Diagram](images/5_locker.png)
+![Diagram](images/6_settings.png)
+![Diagram](images/7_logs.png)
